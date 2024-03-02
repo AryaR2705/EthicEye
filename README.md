@@ -5,13 +5,13 @@ Our DARK PATTERN project from DARK PATTERN BUSTER HACKATHON
 
 EthicEye a extension which find dark patterns such as 
 
-Forced Action
-Misdirection
-Not Dark Pattern
-Obstruction
-Scarcity
-Sneaking
-Social Proof
+Forced Action,
+Misdirection,
+Not Dark Pattern,
+Obstruction,
+Scarcity,
+Sneaking,
+Social Proof,
 Urgency
 
 for you to run this model you can either use API from model hosted on hugging face : 
