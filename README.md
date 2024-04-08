@@ -38,6 +38,9 @@ you can download the model from : https://huggingface.co/Arya20032705/dark_patte
 you should then make a folder named as fine_tuned_bert_model
 in that folder paste the downloads
 
+<img width="658" alt="Screenshot 2024-04-08 at 12 04 45 PM" src="https://github.com/AryaR2705/EthicEye/assets/139691040/dee40121-c01f-4328-b23d-01ce6a9a4869">
+
+
 
 
 
