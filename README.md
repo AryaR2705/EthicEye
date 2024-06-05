@@ -44,4 +44,7 @@ in that folder paste the downloads
 
 
 
+Deployed model for inference : https://huggingface.co/Arya20032705/dark_pattern
+
+
 
