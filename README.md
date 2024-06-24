@@ -2,7 +2,10 @@
 
 
 Our DARK PATTERN project from DARK PATTERN BUSTER HACKATHON
-Certificate link : (Link[https://drive.google.com/file/d/1DGG3BN84M-9pX6Tu7aHpQGPRrGHcWH1x/view])
+[Certificate](https://drive.google.com/file/d/1DGG3BN84M-9pX6Tu7aHpQGPRrGHcWH1x/view)
+
+<img width="392" alt="Screenshot 2024-06-24 at 4 13 16 PM" src="https://github.com/AryaR2705/EthicEye/assets/139691040/9796c70e-1e81-4a1b-9417-cf83f6b16800">
+
 EthicEye a extension which find dark patterns such as 
 
 Forced Action,
